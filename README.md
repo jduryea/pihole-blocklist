@@ -1,5 +1,5 @@
 # pihole-blocklist
-Block gaming related websites for Pi-hole
+Block gaming related websites for pi-hole
 
 ### How to use?
   Just add the following list to your pi-hole.
