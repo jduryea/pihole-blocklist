@@ -13,6 +13,7 @@
 0.0.0.0	achievementstats.com
 0.0.0.0	aheadofthegamemovie.com
 0.0.0.0	aheadofthegamethemovie.com
+0.0.0.0	aion.gameforge.com
 0.0.0.0	aiononline.com
 0.0.0.0	alabasterslim.com
 0.0.0.0	allkeyshop.com
@@ -88,6 +89,7 @@
 0.0.0.0	cjs-cdkeys.com
 0.0.0.0	client-download.steampowered.com
 0.0.0.0	clientconfig.akamai.steamstatic.com
+0.0.0.0	clientconfig.rpg.riotgames.com
 0.0.0.0	cloud-2.steampowered.com
 0.0.0.0	cloud-3.steampowered.com
 0.0.0.0	cloud-4.steampowered.com
@@ -144,6 +146,7 @@
 0.0.0.0	custeam.io
 0.0.0.0	dailydota2.com
 0.0.0.0	dailyindiegame.com
+0.0.0.0	data.riotgames.com
 0.0.0.0	data1.origin.com
 0.0.0.0	data2.origin.com
 0.0.0.0	data4.origin.com
@@ -168,6 +171,7 @@
 0.0.0.0	discord.media
 0.0.0.0	discordapp.com
 0.0.0.0	dispenser.tf
+0.0.0.0	dl.tnt.gameforge.com
 0.0.0.0	dlassets-ssl.xboxlive.com
 0.0.0.0	dlcompare.fr
 0.0.0.0	dlgamer.com
@@ -183,6 +187,7 @@
 0.0.0.0	download2.epicgames.com
 0.0.0.0	download3.epicgames.com
 0.0.0.0	download4.epicgames.com
+0.0.0.0	downloaders.reloadedtech.com
 0.0.0.0	ea.com
 0.0.0.0	editorial.xboxlive.com
 0.0.0.0	eneba.com
@@ -202,6 +207,7 @@
 0.0.0.0	eu.version.battle.net
 0.0.0.0	eurogamer.net
 0.0.0.0	euw.leagueoflegends.com
+0.0.0.0	events.gameforge.com
 0.0.0.0	exophase.com
 0.0.0.0	fanatical.com
 0.0.0.0	files.teamspeak-services.com
@@ -222,10 +228,13 @@
 0.0.0.0	gamedex.net
 0.0.0.0	gamedownloads-rockstargames-com.akamaized.net
 0.0.0.0	gamedownloads.rockstargames.com
+0.0.0.0	gameforge.com
 0.0.0.0	gamegauntlets.com
 0.0.0.0	gameladen.com
 0.0.0.0	gamerlifemovie.com
 0.0.0.0	gamerlifethemovie.com
+0.0.0.0	gamersfirst.com
+0.0.0.0	gamersfirst.com.cdn.cloudflare.net
 0.0.0.0	gamersgate.com
 0.0.0.0	gamesave-manager.com
 0.0.0.0	gamesdeal.com
@@ -296,6 +305,7 @@
 0.0.0.0	images-ext-1.discordapp.net
 0.0.0.0	images-ext-2.discordapp.net
 0.0.0.0	indiegala.com
+0.0.0.0	install.gameforge.com
 0.0.0.0	instant-gaming.com
 0.0.0.0	ipv6check-udp.steamcontent.com
 0.0.0.0	issteamdown.com
@@ -308,6 +318,7 @@
 0.0.0.0	keyofgames.com
 0.0.0.0	kinguin.net
 0.0.0.0	ko.socialclub.rockstargames.com
+0.0.0.0	ks-foundation.secure.dyn.riotcdn.net
 0.0.0.0	l4d.com
 0.0.0.0	l4d2.com.cn
 0.0.0.0	lan.steampowered.com
@@ -324,6 +335,7 @@
 0.0.0.0	level3.ssl.blizzard.com
 0.0.0.0	lightswitch-public-service-prod06.ol.epicgames.com
 0.0.0.0	login.leagueoflegends.com
+0.0.0.0	lol.secure.dyn.riotcdn.net
 0.0.0.0	lolalytics.com
 0.0.0.0	lolcounter.com
 0.0.0.0	lolesports.com
@@ -358,6 +370,7 @@
 0.0.0.0	mx3.steampowered.com
 0.0.0.0	mysteamgauge.com
 0.0.0.0	myteamspeak.com
+0.0.0.0	na.leagueoflegends.com
 0.0.0.0	ncsoft.com
 0.0.0.0	nds-network-nav.ea.com
 0.0.0.0	nerdchan.net
@@ -398,6 +411,7 @@
 0.0.0.0	pl.ea.com
 0.0.0.0	pl.socialclub.rockstargames.com
 0.0.0.0	play.euw.leagueoflegends.com
+0.0.0.0	play.na.leagueoflegends.com
 0.0.0.0	playerauctions.com
 0.0.0.0	playhearthstone.com
 0.0.0.0	playinjector.com
@@ -419,6 +433,8 @@
 0.0.0.0	public-ubiservices.ubi.com
 0.0.0.0	randomsteamgame.com
 0.0.0.0	razer.com
+0.0.0.0	register.gamersfirst.com
+0.0.0.0	register.gamersfirst.com.cdn.cloudflare.net
 0.0.0.0	removed.timekillerz.eu
 0.0.0.0	repo.steampowered.com
 0.0.0.0	repo.steamstatic.com
@@ -432,6 +448,7 @@
 0.0.0.0	s.team
 0.0.0.0	scdkey.com
 0.0.0.0	scrap.tf
+0.0.0.0	secure-asset-delivery.gameforge.com
 0.0.0.0	secure.eu.playstation.com
 0.0.0.0	servc.eu
 0.0.0.0	sessiondirectory.xboxlive.com
@@ -441,7 +458,10 @@
 0.0.0.0	signin.ea.com
 0.0.0.0	signin.rockstargames.com
 0.0.0.0	signup-api.leagueoflegends.com
+0.0.0.0	signup-api.riotgames.com.cdn.cloudflare.net
 0.0.0.0	signup.euw.leagueoflegends.com
+0.0.0.0	signup.na.leagueoflegends.com
+0.0.0.0	signup.na.leagueoflegends.com.cdn.cloudflare.net
 0.0.0.0	sitegeek.fr
 0.0.0.0	smtp01.steampowered.com
 0.0.0.0	smtp02.steampowered.com
@@ -937,6 +957,8 @@
 0.0.0.0	www.gamebillet.com
 0.0.0.0	www.gamedex.net
 0.0.0.0	www.gameladen.com
+0.0.0.0	www.gamersfirst.com
+0.0.0.0	www.gamersfirst.com.cdn.cloudflare.net
 0.0.0.0	www.gamersgate.com
 0.0.0.0	www.gamesave-manager.com
 0.0.0.0	www.gamesdeal.com
