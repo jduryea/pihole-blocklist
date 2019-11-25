@@ -38,6 +38,7 @@
 0.0.0.0	astats.astats.nl
 0.0.0.0	auth-rgl-prod.ros.rockstargames.com
 0.0.0.0	auth.api.sonyentertainmentnetwork.com
+0.0.0.0	auth.riotgames.com
 0.0.0.0	backloggery.com
 0.0.0.0	barter.vg
 0.0.0.0	battle.net
@@ -200,6 +201,7 @@
 0.0.0.0	eu.playstation.com
 0.0.0.0	eu.version.battle.net
 0.0.0.0	eurogamer.net
+0.0.0.0	euw.leagueoflegends.com
 0.0.0.0	exophase.com
 0.0.0.0	fanatical.com
 0.0.0.0	files.teamspeak-services.com
@@ -321,11 +323,13 @@
 0.0.0.0	level3.blizzard.com
 0.0.0.0	level3.ssl.blizzard.com
 0.0.0.0	lightswitch-public-service-prod06.ol.epicgames.com
+0.0.0.0	login.leagueoflegends.com
 0.0.0.0	lolalytics.com
 0.0.0.0	lolcounter.com
 0.0.0.0	lolesports.com
 0.0.0.0	lolking.net
 0.0.0.0	lolmath.net
+0.0.0.0	lolstatic-a.akamaihd.net
 0.0.0.0	lootcrate.com
 0.0.0.0	lorenzostanco.com
 0.0.0.0	marketplace.tf
@@ -365,6 +369,7 @@
 0.0.0.0	ns3.valvesoftware.com
 0.0.0.0	nuuvem.com
 0.0.0.0	nydus.battle.net
+0.0.0.0	oembed.leagueoflegends.com
 0.0.0.0	onestore.ms
 0.0.0.0	online-gold.de
 0.0.0.0	opendota.com
@@ -392,6 +397,7 @@
 0.0.0.0	pin-river.data.ea.com
 0.0.0.0	pl.ea.com
 0.0.0.0	pl.socialclub.rockstargames.com
+0.0.0.0	play.euw.leagueoflegends.com
 0.0.0.0	playerauctions.com
 0.0.0.0	playhearthstone.com
 0.0.0.0	playinjector.com
@@ -422,6 +428,7 @@
 0.0.0.0	rockstargames.com
 0.0.0.0	rta.xboxlive.com
 0.0.0.0	ru.socialclub.rockstargames.com
+0.0.0.0	s.lolstatic.com
 0.0.0.0	s.team
 0.0.0.0	scdkey.com
 0.0.0.0	scrap.tf
@@ -433,6 +440,8 @@
 0.0.0.0	shopatvalve.com
 0.0.0.0	signin.ea.com
 0.0.0.0	signin.rockstargames.com
+0.0.0.0	signup-api.leagueoflegends.com
+0.0.0.0	signup.euw.leagueoflegends.com
 0.0.0.0	sitegeek.fr
 0.0.0.0	smtp01.steampowered.com
 0.0.0.0	smtp02.steampowered.com
@@ -450,6 +459,7 @@
 0.0.0.0	starcraft2.com
 0.0.0.0	static.playstation.com
 0.0.0.0	status.discordapp.com
+0.0.0.0	status.leagueoflegends.com
 0.0.0.0	status.playstation.com
 0.0.0.0	steam-backlog.com
 0.0.0.0	steam-chat.com
