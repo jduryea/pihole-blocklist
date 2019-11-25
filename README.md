@@ -1,5 +1,5 @@
 # Pihole Blocklist
-Block gaming related websites for pi-hole
+Block gaming related websites for pi-hole.
 
 <p>We have done this list to help those who struggle with or have struggled with compulsive gaming or video game addiction. It can also help parents limit their children's online play time.</p>
 
