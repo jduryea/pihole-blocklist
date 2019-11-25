@@ -7,3 +7,6 @@ Block gaming related websites for pi-hole.
 Just add the following list to your pi-hole.
 
 <code> https://raw.githubusercontent.com/stopgaming/pihole-blocklist/master/game.txt </code>
+
+### Extra
+[Enable / Disable block lists on a schedule](https://www.reddit.com/r/pihole/comments/a5p5zm/enable_disable_block_lists_on_a_schedule/)
