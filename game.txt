@@ -90,6 +90,17 @@
 0.0.0.0	cache22-lhr1.steamcontent.com
 0.0.0.0	cache23-lhr1.steamcontent.com
 0.0.0.0	cache24-lhr1.steamcontent.com
+0.0.0.0	cache25-lhr1.steamcontent.com
+0.0.0.0	cache26-lhr1.steamcontent.com
+0.0.0.0	cache27-lhr1.steamcontent.com
+0.0.0.0	cache28-lhr1.steamcontent.com
+0.0.0.0	cache29-lhr1.steamcontent.com
+0.0.0.0	cache30-lhr1.steamcontent.com
+0.0.0.0	cache31-lhr1.steamcontent.com
+0.0.0.0	cache32-lhr1.steamcontent.com
+0.0.0.0	cache33-lhr1.steamcontent.com
+0.0.0.0	cache34-lhr1.steamcontent.com
+0.0.0.0	cache35-lhr1.steamcontent.com
 0.0.0.0	cafe.steampowered.com
 0.0.0.0	cafesupport.steampowered.com
 0.0.0.0	catalog-public-service-prod06.ol.epicgames.com
