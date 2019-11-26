@@ -58,6 +58,14 @@
 0.0.0.0	bundled.in
 0.0.0.0	bundlestars.com
 0.0.0.0	cache-cms-ext-eu.battle.net
+0.0.0.0	cache1-par1.steamcontent.com
+0.0.0.0	cache2-par1.steamcontent.com
+0.0.0.0	cache3-par1.steamcontent.com
+0.0.0.0	cache4-par1.steamcontent.com
+0.0.0.0	cache5-par1.steamcontent.com
+0.0.0.0	cache6-par1.steamcontent.com
+0.0.0.0	cache7-par1.steamcontent.com
+0.0.0.0	cache8-par1.steamcontent.com
 0.0.0.0	cafe.steampowered.com
 0.0.0.0	cafesupport.steampowered.com
 0.0.0.0	catalog-public-service-prod06.ol.epicgames.com
