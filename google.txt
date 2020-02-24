@@ -2746,28 +2746,21 @@
 0.0.0.0	adwordsapi.blogspot.com
 0.0.0.0	adsense-zhs.blogspot.com
 0.0.0.0	android-developers.blogspot.com
-0.0.0.0	
-0.0.0.0	
 0.0.0.0	chrome.blogspot.com
 0.0.0.0	doubleclickpublishersapi.blogspot.com
 0.0.0.0	emeadev.blogspot.com
 0.0.0.0	gearsblog.blogspot.com
-0.0.0.0	
 0.0.0.0	google-entertainment-it.blogspot.com
 0.0.0.0	google-opensource.blogspot.com
 0.0.0.0	googleajaxsearchapi.blogspot.com
 0.0.0.0	googleappengine.blogspot.com
 0.0.0.0	googleappsdeveloper.blogspot.com
-0.0.0.0	
 0.0.0.0	googlecheckout.blogspot.com
 0.0.0.0	qychunming.blogspot.com
 0.0.0.0	googlecheckoutapi.blogspot.com
 0.0.0.0	googlechinablog.blogspot.com
-0.0.0.0	
 0.0.0.0	googlecode.blogspot.com
-0.0.0.0	
 0.0.0.0	googleenterprise.blogspot.com
-0.0.0.0	
 0.0.0.0	googlemashupeditor.blogspot.com
 0.0.0.0	googlemobile.blogspot.com
 0.0.0.0	googleresearch.blogspot.com
@@ -26761,36 +26754,36 @@
 0.0.0.0	ap7.googleusercontent.com
 0.0.0.0	ap8.googleusercontent.com
 0.0.0.0	ap9.googleusercontent.com
-0.0.0.0	0.0.0.0	lh1.google.com
-0.0.0.0	0.0.0.0	lh0.google.com
-0.0.0.0	0.0.0.0	lh2.ggpht.com
-0.0.0.0	0.0.0.0	lh0.ggpht.com
-0.0.0.0	0.0.0.0	lh1.ggpht.com
-0.0.0.0	0.0.0.0	lh3.ggpht.com
-0.0.0.0	0.0.0.0	lh4.ggpht.com
-0.0.0.0	0.0.0.0	lh5.ggpht.com
-0.0.0.0	0.0.0.0	lh6.ggpht.com
-0.0.0.0	0.0.0.0	yt3.ggpht.com
-0.0.0.0	0.0.0.0	yt2.ggpht.com
-0.0.0.0	0.0.0.0	yt1.ggpht.com
-0.0.0.0	0.0.0.0	yt0.ggpht.com
-0.0.0.0	0.0.0.0	yt4.ggpht.com
-0.0.0.0	0.0.0.0	yt5.ggpht.com
-0.0.0.0	0.0.0.0	yt6.ggpht.com
-0.0.0.0	0.0.0.0	*.ggpht.com
-0.0.0.0	0.0.0.0	lh2.google.com
-0.0.0.0	0.0.0.0	lh3.google.com
-0.0.0.0	0.0.0.0	lh4.google.com
-0.0.0.0	0.0.0.0	lh5.google.com
-0.0.0.0	0.0.0.0	lh6.google.com
-0.0.0.0	0.0.0.0	lh0.googleusercontent.com
-0.0.0.0	0.0.0.0	lh1.googleusercontent.com
-0.0.0.0	0.0.0.0	lh2.googleusercontent.com
-0.0.0.0	0.0.0.0	lh3.googleusercontent.com
-0.0.0.0	0.0.0.0	lh4.googleusercontent.com
-0.0.0.0	0.0.0.0	lh5.googleusercontent.com
-0.0.0.0	0.0.0.0	lh6.googleusercontent.com
-0.0.0.0	0.0.0.0	notifications.google.com
+0.0.0.0	lh1.google.com
+0.0.0.0	lh0.google.com
+0.0.0.0	lh2.ggpht.com
+0.0.0.0	lh0.ggpht.com
+0.0.0.0	lh1.ggpht.com
+0.0.0.0	lh3.ggpht.com
+0.0.0.0	lh4.ggpht.com
+0.0.0.0	lh5.ggpht.com
+0.0.0.0	lh6.ggpht.com
+0.0.0.0	yt3.ggpht.com
+0.0.0.0	yt2.ggpht.com
+0.0.0.0	yt1.ggpht.com
+0.0.0.0	yt0.ggpht.com
+0.0.0.0	yt4.ggpht.com
+0.0.0.0	yt5.ggpht.com
+0.0.0.0	yt6.ggpht.com
+0.0.0.0	*.ggpht.com
+0.0.0.0	lh2.google.com
+0.0.0.0	lh3.google.com
+0.0.0.0	lh4.google.com
+0.0.0.0	lh5.google.com
+0.0.0.0	lh6.google.com
+0.0.0.0	lh0.googleusercontent.com
+0.0.0.0	lh1.googleusercontent.com
+0.0.0.0	lh2.googleusercontent.com
+0.0.0.0	lh3.googleusercontent.com
+0.0.0.0	lh4.googleusercontent.com
+0.0.0.0	lh5.googleusercontent.com
+0.0.0.0	lh6.googleusercontent.com
+0.0.0.0	notifications.google.com
 0.0.0.0	geo0.ggpht.com
 0.0.0.0	geo1.ggpht.com
 0.0.0.0	geo2.ggpht.com
