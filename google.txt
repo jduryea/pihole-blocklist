@@ -2203,8 +2203,6 @@
 0.0.0.0	hk.youtube.com
 0.0.0.0	pl.youtube.com
 0.0.0.0	www.youtube-nocookie.com
-0.0.0.0	m.youtube.com
-0.0.0.0	youtu.be
 0.0.0.0	gdata.youtube.com
 0.0.0.0	stage.gdata.youtube.com
 0.0.0.0	s.youtube.com
